@@ -4,7 +4,7 @@ I'm Eric, a Full Stack developer.
 <div align="left">
   
   <h3>Contact me</h3>
-  <a href="ericjealee@gmail.com" target="_blank">
+  <a href="mailto:ericjealee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
